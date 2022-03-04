@@ -1,4 +1,5 @@
 # Traffic Simulator
+## This simulation utilizes a queue road system and prints out the traffic state to the user.
 
 This program can be run with command line arguments. One example is:
 
